@@ -39,11 +39,17 @@ A modern and responsive tea shop website built using **React.js**, showcasing pr
 Urban-Tea-Junction/
 │
 ├── public/
+|
 ├── src/
+|
 │ ├── components/
+| |
 │ ├── pages/
+| |
 │ ├── assets/
+| |
 │ ├── App.js
+| |
 │ └── index.js
 │
 └── package.json
@@ -59,7 +65,7 @@ Urban-Tea-Junction/
 
 
 ### 📦 Products Page
-![Products Page](./screenshots/products.png)
+![Products Page](https://github.com/GauravAs2003/Urban-Tea-Junction/blob/7dea630f9eb629162e842d0f9939e5ab1d15bc97/src/screenshots/poduct.png)
 
 ### 📞 Contact Page
 ![Contact Page](https://github.com/GauravAs2003/Urban-Tea-Junction/blob/41c5ae486a083d42e83309b6840436d9695144bc/src/screenshots/contact.png)
@@ -79,7 +85,12 @@ Below is a recommended Firebase structure.
 
 ![Database Screenshot](https://github.com/GauravAs2003/Urban-Tea-Junction/blob/b8d2a99c5526889d59d98541f433bc62f4773489/src/screenshots/database.png)
 -------
+
+
+
 👉Contact me :----
 📧 Email: gauravaswale65@gmail.com
+
 📞 Phone: +91 9370320225"
+
 🔵LinkedIn:https://www.linkedin.com/in/gaurav-aswale-65566531b/
