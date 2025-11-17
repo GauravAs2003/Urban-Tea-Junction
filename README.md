@@ -55,7 +55,7 @@ Urban-Tea-Junction/
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](../screenshots/home.png)
+![Home Page](https://github.com/GauravAs2003/Urban-Tea-Junction/blob/c1ebe8826c805f4d1e9af108e88f5ed1a5a039d6/src/screenshots/home.png)
 
 
 ### 📦 Products Page
