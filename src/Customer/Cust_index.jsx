@@ -6,8 +6,6 @@ import Cust_home from "./Cust_home";
 import Cust_nav from "./Cust_nav"; // Use only one import
 import Cust_log from "./Cust_log";
 import Cust_reg from "./Cust_reg";
-// import Linked_properties from "./Linked_properties";
-// import Property_details from "./property_details";
 import { Provider, useSelector } from "react-redux";
 import Store from "../Redux/Store";
 import { Cust_about } from "./Cust_about";
