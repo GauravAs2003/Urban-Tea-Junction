@@ -77,9 +77,9 @@ Below is a recommended Firebase structure.
 
 ## 🗄️ Firebase Database Screenshot
 
-![Database Screenshot](./screenshots/database.png)
-
-👉Contact me 
+![Database Screenshot](https://github.com/GauravAs2003/Urban-Tea-Junction/blob/b8d2a99c5526889d59d98541f433bc62f4773489/src/screenshots/database.png)
+-------
+👉Contact me :----
 📧 Email: gauravaswale65@gmail.com
 📞 Phone: +91 9370320225"
 🔵LinkedIn:https://www.linkedin.com/in/gaurav-aswale-65566531b/
