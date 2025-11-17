@@ -62,7 +62,7 @@ Urban-Tea-Junction/
 ![Products Page](./screenshots/products.png)
 
 ### 📞 Contact Page
-![Contact Page](./screenshots/contact.png)
+![Contact Page](https://github.com/GauravAs2003/Urban-Tea-Junction/blob/41c5ae486a083d42e83309b6840436d9695144bc/src/screenshots/contact.png)
 
 > ⚠️ Make sure to upload your images into a **screenshots** folder.
 
