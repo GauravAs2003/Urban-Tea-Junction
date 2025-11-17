@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Urban-Tea-Junction/static/css/main.fb665e37.css",
+    "main.js": "/Urban-Tea-Junction/static/js/main.513e07c3.js",
+    "static/js/453.55b63d3c.chunk.js": "/Urban-Tea-Junction/static/js/453.55b63d3c.chunk.js",
+    "index.html": "/Urban-Tea-Junction/index.html",
+    "main.fb665e37.css.map": "/Urban-Tea-Junction/static/css/main.fb665e37.css.map",
+    "main.513e07c3.js.map": "/Urban-Tea-Junction/static/js/main.513e07c3.js.map",
+    "453.55b63d3c.chunk.js.map": "/Urban-Tea-Junction/static/js/453.55b63d3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb665e37.css",
+    "static/js/main.513e07c3.js"
+  ]
+}
