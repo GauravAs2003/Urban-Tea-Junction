@@ -37,28 +37,27 @@ A modern and responsive tea shop website built using **React.js**, showcasing pr
 
 ## 📂 Project Structure
 Urban-Tea-Junction/
-│
-├── public/
-|
-├── src/
-|
-│ ├── components/
-| |
-│ ├── pages/
-| |
-│ ├── assets/
-| |
-│ ├── App.js
-| |
-│ └── index.js
-│
-└── package.json
+├── backend-springboot/       # Java Spring Boot APIs
+├── frontend-angular/         # Angular SPA
+├── chatbot-python/           
+├── database/                
+│   ├── schema.sql
+│   └── er-diagram.png
+├── docs/                     # Screenshots, architecture diagrams, postman collection
+│   └── SCREENSHOTS/
+├── .gitignore
+└── README.md
 
 
 
 ---
 
 ## 🖼️ Screenshots
+
+
+### 📞 Contact Page
+![Contact Page](https://github.com/GauravAs2003/Urban-Tea-Junction/blob/41c5ae486a083d42e83309b6840436d9695144bc/src/screenshots/contact.png)
+
 
 ### 🏠 Home Page
 ![Home Page](https://github.com/GauravAs2003/Urban-Tea-Junction/blob/c1ebe8826c805f4d1e9af108e88f5ed1a5a039d6/src/screenshots/home.png)
@@ -67,8 +66,7 @@ Urban-Tea-Junction/
 ### 📦 Products Page
 ![Products Page](https://github.com/GauravAs2003/Urban-Tea-Junction/blob/7dea630f9eb629162e842d0f9939e5ab1d15bc97/src/screenshots/poduct.png)
 
-### 📞 Contact Page
-![Contact Page](https://github.com/GauravAs2003/Urban-Tea-Junction/blob/41c5ae486a083d42e83309b6840436d9695144bc/src/screenshots/contact.png)
+
 
 > ⚠️ Make sure to upload your images into a **screenshots** folder.
 
@@ -89,8 +87,11 @@ Below is a recommended Firebase structure.
 
 
 👉Contact me :----
+
 📧 Email: gauravaswale65@gmail.com
 
 📞 Phone: +91 9370320225"
-
+ 
 🔵LinkedIn:https://www.linkedin.com/in/gaurav-aswale-65566531b/
+
+🐙GitHub:https://github.com/GauravAs2003
