@@ -55,7 +55,8 @@ Urban-Tea-Junction/
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](../screenshots/home.png)
+
 
 ### 📦 Products Page
 ![Products Page](./screenshots/products.png)
