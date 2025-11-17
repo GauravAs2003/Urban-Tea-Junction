@@ -36,19 +36,17 @@ A modern and responsive tea shop website built using **React.js**, showcasing pr
 ---
 
 ## 📂 Project Structure
+```
 Urban-Tea-Junction/
-├── backend-springboot/       # Java Spring Boot APIs
-├── frontend-angular/         # Angular SPA
-├── chatbot-python/           
-├── database/                
-│   ├── schema.sql
-│   └── er-diagram.png
-├── docs/                     # Screenshots, architecture diagrams, postman collection
-│   └── SCREENSHOTS/
-├── .gitignore
-└── README.md
-
-
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.js
+│   └── index.js
+└── package.json
+```
 
 ---
 
