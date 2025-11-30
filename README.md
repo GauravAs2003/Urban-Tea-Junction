@@ -4,13 +4,6 @@ A modern and responsive tea shop website built using **React.js**, showcasing pr
 
 ---
 
-## 🌐 Live Demo
-
-**Website Link:**  
-👉 https://gauravas2003.github.io/Urban-Tea-Junction/
-
----
-
 ## 📌 Features
 
 - Fully responsive UI  
